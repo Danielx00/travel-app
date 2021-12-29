@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Bali",
+        "name": "Bali",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Malediwes",
+        "name": "Malediwes",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Paris",
+        "name": "Paris",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Greece",
+        "name": "Greece",
+        "button": "View Destination"
+    }
+]
